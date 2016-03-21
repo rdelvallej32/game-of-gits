@@ -12,3 +12,8 @@ Here is my Change, do you see it?
 Second time is a charm!
 
 Ned woke from his dream; nobody died. Woo.
+
+------
+
+Or did he? Bran woke up from his dream and realized that nothing changed
+Ned is still dead :(
